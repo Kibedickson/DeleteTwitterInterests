@@ -30,4 +30,4 @@ var loopId = setInterval(() => {
   } else {
     clearInterval(loopId);
   }
-}, 650);
+}, 3000);
